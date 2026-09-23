@@ -1,0 +1,11 @@
+C:\Users\Ahmed\Desktop\C#\home_work1_ca242\home_work1_ca242\bin\Debug\home_work1_ca242.exe.config
+C:\Users\Ahmed\Desktop\C#\home_work1_ca242\home_work1_ca242\bin\Debug\home_work1_ca242.exe
+C:\Users\Ahmed\Desktop\C#\home_work1_ca242\home_work1_ca242\bin\Debug\home_work1_ca242.pdb
+C:\Users\Ahmed\Desktop\C#\home_work1_ca242\home_work1_ca242\obj\Debug\home_work1_ca242.csproj.AssemblyReference.cache
+C:\Users\Ahmed\Desktop\C#\home_work1_ca242\home_work1_ca242\obj\Debug\home_work1_ca242.Form1.resources
+C:\Users\Ahmed\Desktop\C#\home_work1_ca242\home_work1_ca242\obj\Debug\home_work1_ca242.Properties.Resources.resources
+C:\Users\Ahmed\Desktop\C#\home_work1_ca242\home_work1_ca242\obj\Debug\home_work1_ca242.csproj.GenerateResource.cache
+C:\Users\Ahmed\Desktop\C#\home_work1_ca242\home_work1_ca242\obj\Debug\home_work1_ca242.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Desktop\C#\home_work1_ca242\home_work1_ca242\obj\Debug\home_work1_ca242.exe
+C:\Users\Ahmed\Desktop\C#\home_work1_ca242\home_work1_ca242\obj\Debug\home_work1_ca242.pdb
+C:\Users\Ahmed\Desktop\C#\home_work1_ca242\home_work1_ca242\obj\Debug\home_work1_ca242.exe.config
